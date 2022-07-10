@@ -1,4 +1,4 @@
-# ocr-space-api-alt2
+# ocr-space-api-alt2-fixed
 
 Allow to access [ORC.SPACE API](https://ocr.space/ocrapi) to send images and get the embedded text.
 
@@ -23,11 +23,11 @@ Get you API key at this [link](https://ocr.space/ocrapi). Just follow their step
 ### Second - Install npm package
 
 ```console
-  npm i ocr-space-api-alt2
+  npm i ocr-space-api-alt2-fixed
 ```
 
 ```console
-  yarn add ocr-space-api-alt2
+  yarn add ocr-space-api-alt2-fixed
 ```
 
 ## Usage example
@@ -80,7 +80,8 @@ The available options are an adaptation from the [docs](https://ocr.space/ocrapi
 
 - **Denis** - _Initial Work_ - _Initial Documentation_ - [dennnisk](https://github.com/dennnisk).
 - **Anthony Luzquiños** - _Rework_ - [AnthonyLzq](https://github.com/AnthonyLzq).
+- **Hoptilic** - _Fix_ = [Hoptilic](https://github.com/Hoptilic).
 
 **Important**
 
-This package was not fully tested, and every contribution will be appreciated.
+Contribution is appreciated.
