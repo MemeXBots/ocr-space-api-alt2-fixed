@@ -35,7 +35,7 @@ Get you API key at this [link](https://ocr.space/ocrapi). Just follow their step
 You can see and example at the folder [`example`](/example/example.js).
 
 ```javascript
-const ocrSpaceApi = require('ocr-space-api-alt2')
+const ocrSpaceApi = require('ocr-space-api-alt2-fixed')
 
 const options =  { 
   apikey: '<YOUR API KEY HERE>',
@@ -80,7 +80,7 @@ The available options are an adaptation from the [docs](https://ocr.space/ocrapi
 
 - **Denis** - _Initial Work_ - _Initial Documentation_ - [dennnisk](https://github.com/dennnisk).
 - **Anthony Luzquiños** - _Rework_ - [AnthonyLzq](https://github.com/AnthonyLzq).
-- **Hoptilic** - _Fix_ = [Hoptilic](https://github.com/Hoptilic).
+- **Hoptilic** - _Fix_ - [Hoptilic](https://github.com/Hoptilic).
 
 **Important**
 
